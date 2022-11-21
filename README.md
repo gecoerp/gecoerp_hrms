@@ -1,5 +1,5 @@
 # gecoerp_hrms
-Sistema de Gestión de Recursos Humanos, calculo de nómina, timbrado CFDI 4.0 y complemento 1.2 en Odoo y GECOERP
+Sistema de Gestión de Recursos Humanos.
 
 * Free software: gecoerp Licence (LGPL-v3)
 * Documentation: https://www.gecoerp.mx/
