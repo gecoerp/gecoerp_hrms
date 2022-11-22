@@ -24,7 +24,7 @@ Sistema de Gestión de Recursos Humanos.
 | MODULO | VERSION | COLABORADORES | RESUMEN | LICENCIA |
 | ------ | ------ | ------ | ------ | ------ |
 | [payroll](payroll/) | 16.0.1 | [![gecoerp](https://github.com/gecoerp.png?size=30px)](https://github.com/gecoerp) | Nómina | [LGPL3](https://www.gnu.org/licenses/license-list.html#OpenContentL) |
-| [payroll_account](payroll_account/) | 16.0.1 | [![gecoerp](https://github.com/gecoerp.png?size=30px)](https://github.com/gecoerp) | Gestiona tu nómina a contabilidad | [LGPL3](https://www.gnu.org/licenses/license-list.html#OpenContentL) |
+| [payroll_account](payroll_account/) | 16.0.1 | [![gecoerp](https://github.com/gecoerp.png?size=30px)](https://github.com/gecoerp) | Gestiona la contabilidad de la  nómina | [LGPL3](https://www.gnu.org/licenses/license-list.html#OpenContentL) |
 
 [//]: # (end addons)
 
