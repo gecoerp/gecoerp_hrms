@@ -1,7 +1,7 @@
 # gecoerp_hrms
 Sistema de Gestión de Recursos Humanos.
 
-* Free software: gecoerp Licence (LGPL-v3)
+* Free software: gecoerp Licence (LGPL-V3)
 * Documentation: https://www.gecoerp.mx/
 
 ## Contenido
@@ -23,9 +23,9 @@ Sistema de Gestión de Recursos Humanos.
 ## Modulos Disponibles
 | MODULO | VERSION | COLABORADORES | RESUMEN | LICENCIA |
 | ------ | ------ | ------ | ------ | ------ |
-| [payroll](payroll/) | 16.0.1 | [![gecoerp](https://github.com/gecoerp.png?size=30px)](https://github.com/gecoerp) | Nómina | [LGPL3](https://www.gnu.org/licenses/license-list.html#OpenContentL) |
-| [payroll_account](payroll_account/) | 16.0.1 | [![gecoerp](https://github.com/gecoerp.png?size=30px)](https://github.com/gecoerp) | Gestiona la contabilidad de la  nómina | [LGPL3](https://www.gnu.org/licenses/license-list.html#OpenContentL) |
-| [hr_payroll_period](hr_payroll_period/) | 16.0.1 | [![gecoerp](https://github.com/gecoerp.png?size=30px)](https://github.com/gecoerp) | Añade periodos a la nómina | [LGPL3](https://www.gnu.org/licenses/license-list.html#OpenContentL) |
+| [payroll](payroll/) | 16.0.1 | [![gecoerp](https://github.com/gecoerp.png?size=30px)](https://github.com/gecoerp) | Nómina | [LGPL-V3](https://www.gnu.org/licenses/license-list.html#OpenContentL) |
+| [payroll_account](payroll_account/) | 16.0.1 | [![gecoerp](https://github.com/gecoerp.png?size=30px)](https://github.com/gecoerp) | Gestiona la contabilidad de la  nómina | [LGPL-V3](https://www.gnu.org/licenses/license-list.html#OpenContentL) |
+| [hr_payroll_period](hr_payroll_period/) | 16.0.1 | [![gecoerp](https://github.com/gecoerp.png?size=30px)](https://github.com/gecoerp) | Añade periodos a la nómina | [LGPL-V3](https://www.gnu.org/licenses/license-list.html#OpenContentL) |
 
 [//]: # (end addons)
 
