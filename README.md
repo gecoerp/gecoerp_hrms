@@ -20,7 +20,7 @@ Sistema de Gestión de Recursos Humanos.
 
 [//]: # (addons)
 
-## Modulos Disponibles
+## Módulos Disponibles
 | MODULO | VERSION | COLABORADORES | RESUMEN | LICENCIA |
 | ------ | ------ | ------ | ------ | ------ |
 | [payroll](payroll/) | 16.0.1 | [![gecoerp](https://github.com/gecoerp.png?size=30px)](https://github.com/gecoerp) | Nómina | [LGPL-V3](https://www.gnu.org/licenses/license-list.html#OpenContentL) |
@@ -41,7 +41,7 @@ Teléfono : (55) 58613000 (México)
 Documentation: https://www.gecoerp.mx/
 
 ----
-## Modúlo en desarrollo liberación estimada en febrero del 2023.
+## Módulo en desarrollo liberación estimada en febrero del 2023.
 Si deseas colaborar en el proyecto favor de ponerte en contacto al teléfono. 
 
 
@@ -53,6 +53,6 @@ Si deseas colaborar en el proyecto favor de ponerte en contacto al teléfono.
 Sitio Web: https://www.gecoerp.mx/nomina
 Teléfono : (55) 58613000 (México)
 
-## Modúlo en desarrollo liberación estimada en febrero del 2023.
+## Módulo en desarrollo liberación estimada en febrero del 2023.
 Si deseas colaborar en el proyecto favor de ponerte en contacto al teléfono. 
 
